@@ -85,7 +85,7 @@ if __name__ == '__main__':
         
     print 'available commands: add, cred, view, quit, load, save, info'
     while (b1):
-        cmd = raw_input('yes, what do you want? ')
+        cmd = raw_input('> ')
         
         if (cmd == 'add'):
             name = raw_input('enter customer name: ')
