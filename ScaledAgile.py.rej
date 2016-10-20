@@ -1,0 +1,10 @@
+diff a/ScaledAgile.py b/ScaledAgile.py	(rejected hunks)
+@@ -85,7 +85,7 @@
+         
+     print 'available commands: add, cred, view, quit, load, save, info'
+     while (b1):
+-        cmd = raw_input('yes, what do you want? ')
++        cmd = raw_input('> ')
+         
+         if (cmd == 'add'):
+             name = raw_input('enter customer name: ')
