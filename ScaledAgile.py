@@ -1,6 +1,7 @@
 from xml.dom import minidom
 import pickle
 
+# Testing git
 # The purpose of this application is to simulate the Scaled Agile Framework
 # The main information sources are a 'Program backlog' and a 'Release train'
 # The backlog can be filled with 'Features' which are going through the stages defining, elaborating, implementing and testing
